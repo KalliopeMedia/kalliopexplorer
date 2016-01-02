@@ -1,0 +1,10 @@
+*.js
+.DS_store
+
+node_modules/
+typings/
+
+config.json
+
+.DS_Store
+.directory
